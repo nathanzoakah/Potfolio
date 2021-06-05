@@ -12,6 +12,10 @@
 ##  Guided Projects
 ### [Analyzing TV Data](https://learn.datacamp.com/projects/super-bowl)
 
+### [A Visual History of Nobel Prize Winners]()
+
+### [The Android App Market on Google Play]()
+
 
 
 
