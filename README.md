@@ -1,5 +1,27 @@
 # Nathan Zoakah
 
+*Solving Problems With the Aid of Technology*
+
+*Aspiring Data Scientist | Datacamp*
+
+
+## Education 
+* Bachelor of Science(Computer Science) University of Jos (2011 - 2016)
+
+
+##  Guided Projects
+### [Analyzing TV Data](https://learn.datacamp.com/projects/super-bowl)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
