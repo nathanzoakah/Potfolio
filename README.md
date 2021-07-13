@@ -2,7 +2,7 @@
 
 *Solving Problems With the Aid of Technology*
 
-*Aspiring Data Scientist | Datacamp*
+*Aspiring Data Scientist - Datacamp*
 
 
 ## Education 
